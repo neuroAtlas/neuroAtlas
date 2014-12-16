@@ -6,9 +6,9 @@ https://github.com/neuroAtlas/WlzIIPSrv/tree/master/doc/manual
 
 To build the server you need to get the following repos
 
-https://github.com/neuroAtlas/External/tree/master
-https://github.com/neuroAtlas/Woolz/tree/release-1.5.0
-https://github.com/neuroAtlas/WlzIIPSrv/tree/release-1.1.1
+ - https://github.com/neuroAtlas/External/tree/master
+ - https://github.com/neuroAtlas/Woolz/tree/release-1.5.0
+ - https://github.com/neuroAtlas/WlzIIPSrv/tree/release-1.1.1
 
 I usually build and install all the software into a directory tree
 out of the /usr tree with prefix=/opt/MouseAtlas, but any other
